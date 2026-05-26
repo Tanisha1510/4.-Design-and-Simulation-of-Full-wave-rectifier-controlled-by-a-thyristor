@@ -66,5 +66,17 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1538" height="534" alt="image" src="https://github.com/user-attachments/assets/2b3b5e93-2658-4324-9f11-72ce96cdcce4" />
+
 ## Output
+I <img width="1280" height="567" alt="image" src="https://github.com/user-attachments/assets/4e6facd7-4e9a-4ca0-8f6c-fc12f70a1f3d" />
+II <img width="1280" height="574" alt="image" src="https://github.com/user-attachments/assets/bfdf5bd6-d37b-4ca4-9cc6-3683093a573d" />
+III <img width="1280" height="562" alt="image" src="https://github.com/user-attachments/assets/dc33871e-652c-4d32-a3aa-a66ecc0f87b9" />
+IV **Inference**
+The single-phase full-wave SCR rectifier successfully converted AC input into controlled DC output.
+With a firing angle of 45°, the output voltage and current were obtained after the SCR triggering instant, producing a partially controlled DC waveform.
+When the load resistance was increased from 1 Ω to 2 Ω, the load current decreased according to Ohm’s law while the output voltage waveform remained nearly unchanged.
+Increasing the firing angle from 45° to 90° reduced the average output voltage and current because the SCR conduction period decreased.
+The simulation verified that the output of the SCR rectifier can be controlled effectively by varying the firing angle.
 ## Result
+A full-wave thyristor-controlled rectifier was successfully designed and simulated in MATLAB/Simulink, and its output characteristics were analyzed for different firing angles.
